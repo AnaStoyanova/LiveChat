@@ -1,5 +1,3 @@
-#About
-
 LiveChat is a single page application. The app is built with REACT.JS. It uses Cloud Firestore and Google Authentication from Firebase. 
 
 Link to the app: https://chatroom-448b4.web.app/
